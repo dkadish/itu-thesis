@@ -241,9 +241,9 @@
   \begin{tikzpicture}[remember picture,overlay,line width=0mm,shift=(current page.south east)]
     \node[anchor=south east] (logo) at (-2.5cm,2.5cm) {
       \iflanguage{danish}{
-        \includegraphics[width=7cm]{dansk}
+        \includegraphics[width=7cm]{itu-thesis/dansk}
       }{
-        \includegraphics[width=7cm]{english}
+        \includegraphics[width=7cm]{itu-thesis/english}
       }
     };
   \end{tikzpicture}
